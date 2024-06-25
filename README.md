@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1> Hi I'm Chamonthan call me Korn👋</h1>
+<hr>
 
-<!--
-**sukorn/sukorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=sukorn&theme=aura_dark&hide_border=false)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukorn&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>  
